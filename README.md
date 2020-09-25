@@ -14,3 +14,6 @@ Freeware Lovers is a Wikipedia for free and open source software. Android, Windo
 7. Using bootstrap
 8. Add Search box
 9. Add log in/sign up components
+
+
+For now you can find the work in progress at developersandbox.de. If you do not find it there, please reach out. This is my personal workbook site that I use to test out projects I am working on.
